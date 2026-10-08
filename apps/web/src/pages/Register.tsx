@@ -46,7 +46,7 @@ export const Register: React.FC = () => {
           <div style={{ display: 'inline-flex', background: 'var(--primary)', padding: '1rem', borderRadius: '50%', marginBottom: '1rem' }}>
             <UserPlus size={32} color="white" />
           </div>
-          <h1 className="page-title" style={{ fontSize: '1.5rem' }}>Create Account</h1>
+          <h1 className="page-title" style={{ fontSize: '1.5rem' }}>Join TaskFlow</h1>
           <p className="text-muted">Join to manage your projects</p>
         </div>
 

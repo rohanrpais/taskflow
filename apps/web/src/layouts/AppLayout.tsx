@@ -21,7 +21,7 @@ export const AppLayout: React.FC = () => {
       <div className="mobile-header d-md-none" style={{ display: 'none' }}>
         <div className="flex items-center gap-2 font-bold">
           <Layout className="icon" size={24} color="var(--primary)" />
-          PMS
+          TaskFlow
         </div>
         <button className="mobile-nav-toggle" onClick={() => setSidebarOpen(true)}>
           <Menu size={24} />
@@ -47,7 +47,7 @@ export const AppLayout: React.FC = () => {
         <div className="sidebar-logo flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Layout className="icon" size={28} />
-            <span>PMS</span>
+            <span>TaskFlow</span>
           </div>
           <button className="mobile-nav-toggle" onClick={closeSidebar} style={{ display: sidebarOpen ? 'block' : 'none' }}>
             <X size={24} />

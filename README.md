@@ -1,4 +1,4 @@
-# Project Management System
+# TaskFlow — Full-Stack Project Management System
 
 ## Project Overview
 This repository contains a full-stack Project Management System built as a two-day technical assessment. The platform enables users to manage their daily workflows by tracking projects and their associated tasks through an intuitive dashboard. It provides seamless cross-platform synchronization between a robust Web interface and a dedicated Mobile application, all powered by a single unified RESTful API.

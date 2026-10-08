@@ -36,7 +36,7 @@ export const Login: React.FC = () => {
           <div style={{ display: 'inline-flex', background: 'var(--primary)', padding: '1rem', borderRadius: '50%', marginBottom: '1rem' }}>
             <LogIn size={32} color="white" />
           </div>
-          <h1 className="page-title" style={{ fontSize: '1.5rem' }}>Welcome Back</h1>
+          <h1 className="page-title" style={{ fontSize: '1.5rem' }}>Welcome to TaskFlow</h1>
           <p className="text-muted">Sign in to manage your projects</p>
         </div>
 

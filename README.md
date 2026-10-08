@@ -178,7 +178,7 @@ Detailed OpenAPI/Swagger definitions are located at `apps/api/openapi.yaml`.
 
 ## Testing & Verification Status
 
-The system was rigorously tested end-to-end (E2E) on the production architecture. 
+The production system was verified across the available web and backend flows. Mobile device-specific E2E verification remains pending manual Android-device validation.
 
 | Feature / Verification Scope | Status |
 | :--- | :--- |
